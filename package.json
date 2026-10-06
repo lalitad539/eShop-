@@ -1,9 +1,9 @@
 {
   "name": "eshop",
   "version": "0.1.0",
-  "homepage": "https://lalitad539.github.io/eShop-/",
   "private": true,
-  "dependencies": {
+    "homepage": "https://lalitad539.github.io/eShop-/",
+    "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@material-ui/icons": "^4.11.3",
