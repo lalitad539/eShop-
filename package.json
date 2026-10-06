@@ -1,6 +1,7 @@
 {
   "name": "eshop",
   "version": "0.1.0",
+  "homepage": "https://lalitad539.github.io/eShop-/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
